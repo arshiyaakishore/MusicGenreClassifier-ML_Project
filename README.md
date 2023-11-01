@@ -1,3 +1,4 @@
 # MusicGenreClassifier-ML_Project
 
-DATASET uses: GTZAN
+DATASET used: GTZAN
+https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
